@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "916697409220",
+    "project_id": "kayungyun-bfe27",
+    "storage_bucket": "kayungyun-bfe27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916697409220:android:77238736583c47cd8c0b91",
+        "android_client_info": {
+          "package_name": "kayun.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9T8j48hixEWEKPV_DI3BHHjPyvAPjsQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916697409220:android:aadb5eaad95730e18c0b91",
+        "android_client_info": {
+          "package_name": "kayus.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9T8j48hixEWEKPV_DI3BHHjPyvAPjsQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916697409220:android:83408d18e8a6a4f18c0b91",
+        "android_client_info": {
+          "package_name": "kayuy.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9T8j48hixEWEKPV_DI3BHHjPyvAPjsQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
